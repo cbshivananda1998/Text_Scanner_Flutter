@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047250399297",
+    "firebase_url": "https://textrec-64b0a.firebaseio.com",
+    "project_id": "textrec-64b0a",
+    "storage_bucket": "textrec-64b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047250399297:android:432f9db6c5bdaa65e716c0",
+        "android_client_info": {
+          "package_name": "shivananda.textrec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047250399297-4mnrvm3206kmcmk5g5cuccl85dhbbvub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYTY60ICRjsL5nQ38AQf-RWBzsn9_xT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047250399297-4mnrvm3206kmcmk5g5cuccl85dhbbvub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
